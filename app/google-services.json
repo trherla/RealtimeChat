@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "26610214791",
+    "firebase_url": "https://realtimechat-2460b.firebaseio.com",
+    "project_id": "realtimechat-2460b",
+    "storage_bucket": "realtimechat-2460b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26610214791:android:6c720506afbbc28fef1522",
+        "android_client_info": {
+          "package_name": "com.herla.realtimechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26610214791-spgnj2aht7nl4ss7ne3tgt68mng6499j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.herla.realtimechat",
+            "certificate_hash": "552068da76b4aff8f271dc789f8e0b6b9e007179"
+          }
+        },
+        {
+          "client_id": "26610214791-90fdffbt4ph32s9df8l35bemm30fr0h2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCMWKRzUH8eJ5LStZW7Po0L0mx_Rw9SXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26610214791-90fdffbt4ph32s9df8l35bemm30fr0h2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
